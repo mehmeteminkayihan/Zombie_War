@@ -1,0 +1,27 @@
+[33m187704f[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m pistol ejecting shell
+[33mdd819e7[m Weapon_Fire_Animations
+[33mf7808d8[m Hitmarker V-2.0
+[33m6a27f70[m Change Fire Type
+[33mffb0e88[m Added gun burst
+[33m9111330[m Zombie Crawler part 2
+[33mb8402aa[m Zombie Crawler part 1
+[33m720e2ba[m Zombie Head explosion
+[33mb0fd2bc[m Spawning Blood ground
+[33m356a287[m Enemy BulletHole effect
+[33m9b6b0fe[m Throw grenade
+[33m4f92852[m grenade indicator
+[33m2eb22fe[m add Grenade
+[33m7ae4bad[m add physical animation
+[33medc7135[m Game Restart & fixed enemy physics
+[33m0c0abce[m Death Screen & Level  Start
+[33mfda9a78[m Add Scoreboard
+[33mb82abec[m Pause Menu added
+[33m5a38594[m perk machine & wall buy weapon fixed
+[33m5a711ba[m Fire Trace Fix & Custom Trace add
+[33m6d502ad[m Bug fix & custom projectile
+[33ma745ab3[m Upgrade Machine part 3
+[33md1b0feb[m Upgrade machine part 3
+[33mf2c35b5[m Upgrade Machine part 2
+[33m6fb6d4c[m Add Upgrade Machine
+[33m471a312[m Zombie_War
+[33mfae65a7[m Initial commit
